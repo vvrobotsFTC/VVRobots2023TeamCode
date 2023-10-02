@@ -14,7 +14,7 @@ public class RobotParamaters {
 
     public static final int liftStart=0;
     public static final int liftEnd=1890;
-    public static final int rotTankStart=-1560;
+    public static final int rotTankStart=-1580;
     public static final int rotTankEnd=1560;
     public static final int mamaStart=0;
     public static final int manaEnd=750;
