@@ -11,7 +11,7 @@ public class AutoLeft extends BaseAuto {
 
     @Override
     public void runOpMode() {
-        Init();
+        Init();//initializare
         CloseCleste();
         telemetry.addLine("Ready");
         DcMotor Mana=RobotComponents.Mana;
