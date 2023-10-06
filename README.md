@@ -1,6 +1,6 @@
 ## VVRobots Code
 
-Codul de anul acesta se afla in [TeamCode/src/main/java/org/firstinspires/ftc/teamcode](TeamCode/src/main/java/org/firstinspires/ftc/teamcode)
+Codul de anul acesta se afla in [TeamCode/src/main/java/org/firstinspires/ftc/teamcode/PowerplayCode](TeamCode/src/main/java/org/firstinspires/ftc/teamcode/PowerplayCode)
 
 
 ## NOTICE
