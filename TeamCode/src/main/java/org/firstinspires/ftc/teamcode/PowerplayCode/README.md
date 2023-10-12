@@ -1,3 +1,1 @@
-## Config
-[config.java](config.java) Contine numele componentelor cu care placa de baza face legatura intre porturile de pe placa de baza si robot
-[RobotComponents.java](RobotComponents.java) contine componentele robotului
+Acesta e fisierul cu codul robotului
