@@ -7,10 +7,10 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.hardware.Servo;
 
 import org.firstinspires.ftc.teamcode.PowerplayCode.RobotComponents;
-import org.firstinspires.ftc.teamcode.PowerplayCode.RobotParamaters;
 import org.firstinspires.ftc.teamcode.PowerplayCode.config;
 @TeleOp
-public class EasyCode extends LinearOpMode {
+public class SimpleMovementCode extends LinearOpMode {
+
 
     DcMotor FRwheelMotor;
     DcMotor BRwheelMotor;

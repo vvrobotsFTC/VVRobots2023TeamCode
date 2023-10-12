@@ -51,7 +51,6 @@ public class Control extends LinearOpMode {
 
     boolean ClesteInchis=true;
     boolean XWasPressed=false;
-    boolean BWasPressed=false;
     float start_angle;
     void Cleste(){
         if(gamepad2.x&&!XWasPressed){
